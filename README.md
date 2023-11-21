@@ -8,4 +8,7 @@ Repositório contendo atividades desenvolvidas no âmbito da Disciplina de Compl
   - [x] Implemented ``User Based Collaborative Filtering`` from scratch
   - [x] `Pearson's correlation` from scratch to deal with the **problem of sparsity**
   - [x] Calculate **distances between vectors** based on `cosine similarity` and `Pearson's correlation`
+  - [x] ``User Based Collaborative Filtering`` adapted to also work using `Pearson's correlation`
   - [ ] Hierarchical clustering study and implementation
+    - [x] Using **Scipy**
+    - [ ] Implementing
